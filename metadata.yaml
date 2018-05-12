@@ -1,4 +1,8 @@
 _repo: Glimpses-of-Nature-and-Objects-of-Interest-Described-During-a-Visit-to-the-Isle-of-Wight-Desi__48183
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48183-h/images/cover.jpg
 creator:
   author:
     agent_name: Loudon, Jane C. Webb
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44664
     wikipedia: https://en.wikipedia.org/wiki/Jane_C._Loudon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48183#Glimpses-of-Nature-and-Objects-of-Interest-Described-During-a-Visit-to-the-Isle-of-Wight-Desi_
 gutenberg_issued: '2015-02-06'
 gutenberg_type: Text
 identifiers:
