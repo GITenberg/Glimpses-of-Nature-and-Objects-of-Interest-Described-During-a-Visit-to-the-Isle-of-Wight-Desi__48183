@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Glimpses of Nature, and Objects of Interest Described, During a Visit to the
   Isle of Wight
 
